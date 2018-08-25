@@ -1,0 +1,752 @@
+                                                @media all and (max-width:380px){
+
+    
+
+     /* -----------------FOTY SUDIO-------------*/  
+
+    
+
+    .foty_studio img{
+
+        width: 100%!important;
+
+    }
+
+    
+
+    .zdjecie1{
+
+        display: none;
+
+    }
+
+                                                                 
+
+                                                                 
+
+                                                                 
+
+             /* -----------------AKTUALNOSCI -------------*/                                                              
+
+                                                                  
+
+   .container_button{
+
+       display: flex;
+
+       flex-direction: row;
+
+       justify-content: center;
+
+     
+
+        
+
+ 
+
+ }                                                           
+
+                                                                 
+
+       /* -----------------AKTUALNOŚCI PRAWA STRONA-------------*/
+                                                    
+                                                    
+      .container_aktualnosci{
+          width: 100%;
+      }
+    
+    .box_aktualnosci_calosc{
+        flex-direction: column;
+         width: 100%;
+    }
+      
+      .prawa_strona{
+           width: 100%;
+          
+        
+              
+      }
+                                                    
+.box_data{
+    width:100%;
+    padding-top: 4px;
+    box-sizing: border-box;
+}
+            
+
+         /* -----------------BOXY POPRZEDNIE AKTUALNOSCI -------------*/     
+
+    
+
+
+
+    .container_boxy{
+
+        display: none;
+
+    }
+
+    
+
+         /* -----------------BOXY EKIPA -------------*/                                                             
+
+                                                                  
+
+                                                                  
+
+                                                                  
+
+                                                                  
+
+.box_janusz ,.box_agnieszka, .box_fox , .box_paku{
+
+    margin-right: 10px;
+
+margin-left: 10px;
+
+}
+
+                                                                 
+
+    /* -----------------BOXY OSIAGNIECIA -------------*/                                                                  
+
+                                                                 
+
+ .container_osiagniecia{
+
+       flex-direction: column;
+
+    
+
+}                                                          
+
+.item_osiagniecia{
+
+    width: 95%;
+
+       margin: 5px;
+
+    margin-bottom: 15px;
+
+  
+
+ } 
+
+                                                                 
+
+      /* -----------------STOPKA -------------*/
+
+.stopka{
+
+flex-direction: column;
+
+ }                                                              
+
+                                                                 
+
+ .stopka_srodek{
+
+          order:1; 
+ margin-left: 1px;
+     margin-top:50px;
+
+ }
+
+  .stopka_prawo{
+
+          order:2; 
+
+      justify-content: center;
+
+      margin-bottom: 65px;
+
+ }                                                                
+
+                                                                 
+
+}
+
+
+
+
+
+
+
+
+
+                                                @media all and (max-width:930px){
+
+    
+
+/* ---------------MENU--------------*/
+
+    
+
+    .menu{
+
+        flex-direction: row;
+
+    }
+
+    
+
+    .lista{
+
+        display: none;
+
+        margin-top: 100px;
+
+        position: absolute;
+
+   left: 0px;
+
+        z-index: 1;
+
+        width: 100%;
+
+        height: 100%;
+
+        flex-direction: column;
+
+        justify-content: center;
+
+        text-align: center;
+
+        
+
+
+
+    }
+
+    
+
+/* -----------------------------*/
+
+/* -----------------------------*/
+
+    
+
+    
+
+   /* ---------------LOGO STUDIO SZERSZEN PRZY INFO--------------*/  
+
+    
+
+    .logo_info img{
+
+       width: 200px; 
+
+    }
+
+    
+
+    
+
+    /* -----------------------------*/
+
+/* -----------------------------*/
+
+   
+
+    
+
+ /* ---------------MENU RESPONSIVE--------------*/   
+
+    
+
+    
+
+    .lista_responive{
+
+display: none;
+
+        margin-top: 100px;
+
+        position: absolute;
+
+   left: -20px;
+
+        z-index: 1;
+
+        width: 100%;
+
+        height: 600px;
+
+        flex-direction: column;
+
+        justify-content: center;
+
+        text-align: center;  
+
+        
+
+        
+
+    } 
+
+                                                                  
+
+  .lista_responive li a{
+
+      font-size: 20px;
+
+ }
+
+    
+
+    
+
+    
+
+  /* -----------------------------*/
+
+/* -----------------------------*/  
+
+    
+
+    
+
+/* ---------------LOGO OBOK MENU I IKONA MENU RESPONSYWNEGO--------------*/   
+
+    
+
+    .logo{
+
+ display: flex;
+
+      
+
+    }
+
+   
+
+    
+
+     .logo img{
+
+       padding-top: 15px;
+
+         padding-bottom: 15px;
+
+        width:65%;
+
+     
+
+         
+
+    }
+
+  .ikona_menu{
+
+      
+
+    
+
+      border-color:white;
+
+      align-items: center;
+
+    display: flex;
+
+ justify-content: flex-end;
+
+    color: wheat;
+
+      width: 70%;
+
+      padding-right: 5px;
+
+      padding-bottom: 20px;
+
+
+
+}
+
+    
+
+    .linia{
+
+        position: relative;
+
+        left:70px;
+
+        background-color: white;
+
+        
+
+        height: 5px;
+
+        width:40px;
+
+    }
+
+    
+
+       .linia2{
+
+           position: relative;
+
+        background-color: white;
+
+           top: 10px;
+
+           left:30px;
+
+        height: 5px;
+
+        width:40px;
+
+    }
+
+          .linia3{
+
+           position: relative;
+
+        background-color: white;
+
+           top: 20px;
+
+           left:-10px;
+
+        height: 5px;
+
+        width:40px;
+
+    }
+
+    
+
+      /* -----------------------------*/
+
+/* -----------------------------*/ 
+
+    
+
+    
+
+    
+
+/* -----------------INFO SUDIO-------------*/ 
+
+    
+
+    .info_text_bold{
+
+        font-size:3vmax;
+
+    }
+
+    
+
+    .info_text_normal{
+
+        font-size:2.5vmax;
+
+    }
+
+    
+
+/* -----------------------------*/
+
+/* -----------------------------*/ 
+
+    
+
+    
+
+   /* -----------------FOTY SUDIO-------------*/  
+
+    
+
+    .foty_studio{
+
+        flex-direction: row;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+        flex: 1;
+
+    }
+
+    
+
+    .foty_studio img{
+
+        width: 190px;
+
+    }
+
+    
+
+                                                                  
+
+                                                                  
+
+       
+
+                                                              
+
+                                                                  
+
+                                                                  
+
+    
+
+       /* -----------------BOXY POPRZEDNIE AKTUALNOSCI -------------*/     
+
+    
+
+
+
+    .container_boxy{
+
+        display: none;
+
+    }
+
+                                                                  
+
+                                                                  
+
+
+
+
+
+}
+
+                                                @media all and (max-width:800px){
+
+
+
+  /* -----------------AKTUALNOŚCI PRAWA STRONA-------------*/    
+
+    
+
+    
+
+    .box_aktualnosci_calosc{
+
+        flex-direction: column;
+
+        justify-content: center;
+
+        text-align: center;
+
+        
+
+        
+
+    }
+
+                                                                           
+
+ .prawa_strona{
+
+     display: flex;
+
+     flex-direction: column;
+
+     justify-content: center;
+
+     text-align: center;
+
+     
+
+}
+
+                                                                           
+
+.box_tytul{
+
+    padding:10px;
+
+      display: flex;
+
+     flex-direction: column;
+
+     justify-content: center;
+
+     text-align: center;
+
+   
+
+ }
+
+                                                                           
+
+                                                                           
+
+    .box_data{
+
+
+
+        
+
+       align-self: center;
+
+        
+
+   }
+
+                                                                           
+
+   .container_button{
+
+       display: flex;
+
+       flex-direction: row;
+
+       justify-content: center;
+
+      
+
+        
+
+ 
+
+ }
+
+    
+
+    
+
+    .prawa_strona{
+
+        order: 2;
+
+        width:100%;
+
+        
+
+    }
+
+
+
+    
+
+    /* -----------------BOXY POPRZEDNIE AKTUALNOSCI -------------*/     
+
+    
+
+
+
+    .container_boxy{
+
+        display: none;
+
+    }
+
+    
+
+         /* -----------------BOXY EKIPA -------------*/                                                             
+
+   .container_ekipa{
+
+    background-size:cover;                                                                           
+
+}                                                         
+
+                                                                  
+
+      .box_janusz ,.box_agnieszka, .box_fox , .box_paku{
+
+    margin-right: 10px;
+
+margin-left: 10px;
+
+} 
+
+                                                                           
+
+    /* -----------------SEKCJA HIGIENA -------------*/                                                                          
+
+                                                                           
+
+        .info_higiena h3{
+
+    background-color: #0d0d0d;
+
+   padding: 1px;
+
+            font-size: 16px!important;
+
+    
+
+}  
+
+                                                                           
+
+.certyfikat{
+
+    text-align: center;
+
+    justify-content: center;
+
+    flex-direction: column;
+
+    order: 1;
+
+                                                                               
+
+ }   
+
+   .higiena_prawa{  
+
+       
+
+      flex-direction: column;
+
+    order: 2; 
+
+       width: 90%;
+
+   }
+
+                                                                           
+
+   .opis_higiena{
+
+       text-align: center;
+
+       
+
+}                                                                      
+
+                                                                           
+
+}
+
+
+
+
+
+                                                  @media all and (min-width:931px){
+
+    
+
+.lista_responive{
+
+display: none!important;
+
+        
+
+        
+
+        
+
+    } 
+
+
+
+    
+    .box_aktualnosci_calosc{
+width:1024px;
+}
+}
+
+
+
+
+

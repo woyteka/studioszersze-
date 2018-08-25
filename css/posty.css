@@ -1,0 +1,81 @@
+.tlo_posta{
+
+	background-image: url(images/tlo_header.jpg);
+
+}
+
+
+.posty{
+background-image: url(images/tlo_header.jpg);
+	background-image: url(images/tlo_header.jpg);
+	
+	display:flex;
+	justify-content:center;
+	flex-direction: column;
+	text-align: center;
+	padding-top: 120px;
+	
+	color: white;
+	
+	align-items: center;
+	align-self: center;
+	align-content: center;
+
+	
+}
+
+.tlo_posta img{
+	width:100%;
+	height: 100%;
+}
+
+.box-post{
+	width: 50%;
+margin-bottom: 80px;
+color: white;
+display:flex;
+	justify-content:center;
+	flex-direction: column;
+	text-align: center;
+}
+
+.box-post h3{
+color: black;
+
+}
+
+
+
+.post-tytul{
+text-align: center;
+	background-color: white;
+
+color:black;
+}
+.post-data h3{
+	color:white;
+}
+
+
+.cookies a{
+    color: white;
+    font-family: 'Roboto Slab';
+    font-size: 10px;
+    text-decoration:none;
+}
+
+.cookies a:hover{
+  color:grey;
+}
+
+
+
+@media all and (max-width:800px ){
+
+.box-post{
+	width:98%;
+
+}
+
+
+}
